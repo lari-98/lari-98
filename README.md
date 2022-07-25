@@ -1,17 +1,17 @@
 ![Snake animation](https://github.com/lari-98/lari-98/blob/output/github-contribution-grid-snake.svg)
 
-## Olá, me chamo Larissa! 
+# Olá, me chamo Larissa! 
 <br>
-### Seja bem vindo ao meu perfil GitHub 👋
+Seja bem vindo ao meu perfil GitHub 👋
 <br>
-### Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height "40"/>
 </div>
 
-### Contatos:
+## Contatos:
 
 <div>
   <a href = "mailto:larissapg.bsb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
